@@ -1,1 +1,3 @@
-# Repository for final project
+# Final Project - Emotion Detector
+
+This repository contains the Final Project for the IBM AI Emotion Detector application.
